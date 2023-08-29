@@ -1,2 +1,2 @@
-# SBSPS-Challenge-10865-Autonomous-Tagging-Of-Stack-Overflow-Questions
-Autonomous-Tagging-Of-Stack-Overflow-Questions
+# IBM Hack Challenge 2023
+Identifying Patterns and Trends in Campus Placement Data using Machine Learning
