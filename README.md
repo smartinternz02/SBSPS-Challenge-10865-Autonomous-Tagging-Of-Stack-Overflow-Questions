@@ -1,5 +1,5 @@
 # IBM Hack Challenge 2023
-Identifying Patterns and Trends in Campus Placement Data using Machine Learning
+<h1>Identifying Patterns and Trends in Campus Placement Data using Machine Learning</h1>
 
 The project titled "Identifying Patterns and Trends in Campus Placement Data Using Machine Learning" aims to leverage the power of machine learning algorithms to analyze and extract valuable insights from campus placement data.In today's competitive job market, understanding the patterns and trends in campus placement data can provide valuable information for students, academic institutions, and recruiters. 
 This project seeks to develop a system that can automatically process and analyze large volumes of campus placement data to identify significant patterns and trends. 
